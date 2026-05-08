@@ -10,7 +10,7 @@ Exam date: July 5, 2026 | 60 days
 1. **8 PM** — Routine runs automatically, creates `sessions/YYYY-MM-DD/session-study.md`
 2. **You sit down** — open Claude Code in this directory
 3. **Type `/start-study`** — Claude loads today's session, pulls study-brain context, begins coaching
-4. **Answer questions** — fill `sessions/today/my-answers.md`
+4. **Answer questions** — fill `sessions/today/answers.md`
 5. **Say "done"** — Claude writes `session-notes.md`, updates `progress.md` and `wrong-answers.md`
 
 ---
@@ -31,7 +31,7 @@ ncp-aai-prep/
 ├── sessions/                        ← one folder per day
 │   ├── YYYY-MM-DD/
 │   │   ├── session-study.md         ← pre-built by Routine
-│   │   ├── my-answers.md            ← you fill during session
+│   │   ├── answers.md               ← you fill during session
 │   │   └── session-notes.md         ← written by Claude after session
 │   ├── weekly-review-YYYY-MM-DD.md  ← written by weekly Routine
 │   └── example/                     ← example session to show format

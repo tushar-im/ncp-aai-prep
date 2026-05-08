@@ -45,7 +45,7 @@ Date: July 5, 2026 at 2:30 PM
 ## Session Folder Structure
 - Each day's session lives in sessions/YYYY-MM-DD/
 - session-study.md — pre-built by Routine, read this to start
-- my-answers.md — Tushar fills this during session
+- answers.md — Tushar fills this during session
 - session-notes.md — written by Claude after session ends
 
 ## Commands Available
