@@ -7,7 +7,7 @@ Exam date: July 5, 2026 | 60 days
 
 ## Daily Flow
 
-1. **8 PM** — Routine runs automatically, creates `sessions/YYYY-MM-DD/session-study.md`
+1. **9 AM** — Routine runs automatically, creates `sessions/YYYY-MM-DD/session-study.md`
 2. **You sit down** — open Claude Code in this directory
 3. **Type `/start-study`** — Claude loads today's session, pulls study-brain context, begins coaching
 4. **Answer questions** — fill `sessions/today/answers.md`
