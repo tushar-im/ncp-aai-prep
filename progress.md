@@ -7,6 +7,7 @@
 
 ## Sessions Log
 <!-- Add a line after every session: [date] | [topic] | [score if quizzed] -->
+2026-05-08 | Agent Architecture and Design | 4/5 (official), 1.5/3 (improvised)
 
 ---
 
